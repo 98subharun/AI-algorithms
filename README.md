@@ -12,3 +12,28 @@ Deep NLP.
 To run these algorithms, install the required dependencies:
 
 ```pip install numpy pandas matplotlib scikit-learn tensorflow keras```
+
+# Usage
+Clone this repository and navigate to the algorithm folder you’d like to test:
+```git clone https://github.com/98subharun/AI-algorithms.git
+   cd AI-algorithms/Linear\ Regression
+   python linear_regression.py```
+
+Each script includes:
+=> A comprehensive code
+=>Explanations
+
+# Future upgrades
+Planned algorithms and improvements:
+
+ Random Forests & Gradient Boosting
+
+ Support Vector Machines (SVM)
+
+ Principal Component Analysis (PCA)
+
+ RNNs / LSTMs for sequence data
+
+ Jupyter notebooks with visual demos
+
+ Integrated benchmarking script

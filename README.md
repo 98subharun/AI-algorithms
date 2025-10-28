@@ -14,7 +14,9 @@ To run these algorithms, install the required dependencies:
 ```pip install numpy pandas matplotlib scikit-learn tensorflow keras```
 
 # Usage
+
 Clone this repository and navigate to the algorithm folder you’d like to test:
+
 ```git clone https://github.com/98subharun/AI-algorithms.git```
 
 ``` cd AI-algorithms/Linear\ Regression```

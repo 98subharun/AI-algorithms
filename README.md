@@ -16,16 +16,20 @@ To run these algorithms, install the required dependencies:
 # Usage
 Clone this repository and navigate to the algorithm folder you’d like to test:
 ```git clone https://github.com/98subharun/AI-algorithms.git```
+
 ``` cd AI-algorithms/Linear\ Regression```
+
 ```python linear_regression.py```
 
 # What you'll get
 Each script includes:
+
 =>A comprehensive code
 
 =>Explanations
 
 # Future upgrades
+
 Planned algorithms and improvements:
 
  =>Random Forests & Gradient Boosting
@@ -41,6 +45,7 @@ Planned algorithms and improvements:
  =>Integrated benchmarking script
 
 # Contributions are welcome!
+
 =>If you’d like to add an algorithm or improve an existing one:
 
 =>Fork this repo
@@ -49,4 +54,4 @@ Planned algorithms and improvements:
 
 =>Commit your changes
 
-=>Open a pull request 🚀
+=>Open a pull request 

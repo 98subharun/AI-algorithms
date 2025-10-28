@@ -7,3 +7,8 @@ Logistic Regression,
 K-means clustering,
 Deep CNN,
 Deep NLP.
+
+# Requirments
+To run these algorithms, install the required dependencies:
+
+```pip install numpy pandas matplotlib scikit-learn tensorflow keras```
